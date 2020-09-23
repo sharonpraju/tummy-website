@@ -291,6 +291,14 @@ body {
 	text-decoration: none;
 	color: white;
 }
+#menu-show-1 {
+	border: #fff solid 2px;
+	color: black;
+}
+#menu-show-2 {
+	border: #fff solid 2px;
+	color: black;
+}
 
 .l-viewport {
 	position: relative;
